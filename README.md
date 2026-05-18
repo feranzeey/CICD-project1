@@ -57,4 +57,4 @@ AWS Account
 Conclusion
 
 These projects helped me understand the fundamentals of DevOps, including automation, deployment, monitoring, Docker, and cloud infrastructure.
->>>>>>> 81eaadc (updated README)
+
